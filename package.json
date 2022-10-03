@@ -9,12 +9,12 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/NicoSPoma/Proyecto1.git"
+      "url": "git+https://github.com/NicoSPoma/proyecto_javascript"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/NicoSPoma/Proyecto1/issues"
+      "url": "https://github.com/NicoSPoma/proyecto_javascript/issues"
     },
     "homepage": "https://github.com/NicoSPoma/Proyecto1#readme",
     "keywords": ["HTML", "CSS", "SASS", "BOOTSTRAP"],
